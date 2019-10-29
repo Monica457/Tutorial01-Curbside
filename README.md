@@ -23,11 +23,31 @@ OBJETIVO ALCANZADO:
 3. Luego, se debe crear el archivo README del repositorio de GitHub 
 
 4. El desarrollo de cada uno de los puntos antes descritos, así como las etiquetas HTML utilizadas para resolver cada punto. 
- 
-las etiquetas HTML utilizadas para resolver cada punto. 
- 
-<head>, <body>, <header> , <section>, <article>, <div>, <br>, <a>, <img>, <ul>, <li>, <nav>, <h1>, <h2>, <h3>, <p>, <table>
-, <tr>, <td>, <th>, <aside>, <center>, <footer>, <iframe> 
+-las etiquetas HTML utilizadas para resolver cada punto. 
+•head
+•body
+•header
+•section
+•article
+•div
+•br
+•a
+•img
+•ul
+•li
+•nav
+•h1
+•h2
+•h3
+•p
+•table
+•tr
+•td
+•th
+•aside
+•center
+•footer
+•iframe 
  
  5. La evidencia de la correcta estructuración de las páginas HTML. Para lo cuál, se puede generar fotografías instantáneas (pantallazos). 
  
@@ -42,5 +62,3 @@ Monica457   https://github.com/Monica457/Tutorial01-Curbside
 CONCLUSIONES: 
  
 Las nuevas etiquetas que implementa la versión html5 ayudan y mejora a la creación de la estructura de los documentos de html de los proyectos web, ya que nos evita el uso o la necesidad de la etiqueta div para poder estructura nuestro documento. 
- 
- 
